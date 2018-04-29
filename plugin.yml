@@ -1,0 +1,6 @@
+name: ToggleQuitMessage
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
+version: 1.0
+description: Toggle Quit Message!
+author: Varion
+main: ToggleQuitMessage\Main
